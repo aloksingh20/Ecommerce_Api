@@ -49,4 +49,4 @@ To run the API locally or contribute to its development, follow the steps outlin
 ## Acknowledgments
 
 Our gratitude to the open-source community and various technologies that have contributed to the development of the E-commerce API. Feel free to explore, contribute, and enhance the E-commerce experience!
-```
+
